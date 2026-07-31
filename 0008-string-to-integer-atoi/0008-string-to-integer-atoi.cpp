@@ -9,10 +9,8 @@ public:
 
         //detecting sign
         int sign=1;
-        while(i<n &&(s[i]=='+'||s[i]=='-'))
+        if(i<n &&(s[i]=='+'||s[i]=='-'))
         {
-            if( (s[i]=='-'&& s[i+1]=='+') || (s[i]=='+'&& s[i+1]=='-') || (s[i]=='+'&&s[i+1]=='+') || (s[i]=='-'&&s[i+1]=='-'))
-            return 0;
             if(s[i]=='-')
             sign=-1;
             i++;
