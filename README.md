@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Rupankar13/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rupankar13/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rupankar13/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rupankar13/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
