@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rupankar13/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rupankar13/LeetCode/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/Rupankar13/LeetCode/tree/master/0086-partition-list) |
 ## Hash Table
@@ -48,5 +49,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rupankar13/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rupankar13/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
