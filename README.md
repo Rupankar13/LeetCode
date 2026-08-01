@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Rupankar13/LeetCode/tree/master/0055-jump-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rupankar13/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rupankar13/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rupankar13/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rupankar13/LeetCode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Rupankar13/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Rupankar13/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Rupankar13/LeetCode/tree/master/0059-spiral-matrix-ii) |
 ## Binary Search
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rupankar13/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rupankar13/LeetCode/tree/master/0059-spiral-matrix-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Rupankar13/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
