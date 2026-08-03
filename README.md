@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rupankar13/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rupankar13/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Rupankar13/LeetCode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rupankar13/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rupankar13/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Rupankar13/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0486-predict-the-winner](https://github.com/Rupankar13/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rupankar13/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Rupankar13/LeetCode/tree/master/1406-stone-game-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Rupankar13/LeetCode/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/Rupankar13/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rupankar13/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Rupankar13/LeetCode/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -97,4 +100,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rupankar13/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rupankar13/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Rupankar13/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
