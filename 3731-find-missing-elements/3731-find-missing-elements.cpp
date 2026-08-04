@@ -11,7 +11,7 @@ public:
             if(nums[i]<=smallest)
             smallest=nums[i];
 
-            if(map.count(nums[i]==0))
+            if(map.count(nums[i])==0)
             map[nums[i]]=1;
             else
             map[nums[i]]++;
