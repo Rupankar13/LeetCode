@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rupankar13/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rupankar13/LeetCode/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/Rupankar13/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rupankar13/LeetCode/tree/master/0877-stone-game) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Rupankar13/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/Rupankar13/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Rupankar13/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Rupankar13/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rupankar13/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rupankar13/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rupankar13/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rupankar13/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Rupankar13/LeetCode/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Rupankar13/LeetCode/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Rupankar13/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
