@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Rupankar13/LeetCode/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/Rupankar13/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rupankar13/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Rupankar13/LeetCode/tree/master/1406-stone-game-iii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rupankar13/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rupankar13/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Rupankar13/LeetCode/tree/master/0069-sqrtx) |
 ## Matrix
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Rupankar13/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Rupankar13/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
