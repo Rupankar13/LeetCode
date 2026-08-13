@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Rupankar13/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Rupankar13/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rupankar13/LeetCode/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/Rupankar13/LeetCode/tree/master/0486-predict-the-winner) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Rupankar13/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Rupankar13/LeetCode/tree/master/0067-add-binary) |
 | [1009-complement-of-base-10-integer](https://github.com/Rupankar13/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 ## Enumeration
