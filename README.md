@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Rupankar13/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Rupankar13/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rupankar13/LeetCode/tree/master/0069-sqrtx) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rupankar13/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Rupankar13/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rupankar13/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Rupankar13/LeetCode/tree/master/1406-stone-game-iii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rupankar13/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rupankar13/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Rupankar13/LeetCode/tree/master/3731-find-missing-elements) |
 ## Array
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Rupankar13/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Rupankar13/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Rupankar13/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rupankar13/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Rupankar13/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rupankar13/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Rupankar13/LeetCode/tree/master/1406-stone-game-iii) |
